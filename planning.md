@@ -1,6 +1,6 @@
 # GitHub Presentation Planning
 
-## What is GitHub
+## 1. What is GitHub
 - Git
   - Code repository/Version control
   - A useful development tool
@@ -8,7 +8,7 @@
   - Showcase of skills and capabilities
   - History of activity
   - Social networking aspect of actually collaborating
-## Why should you care
+## 2. Why should you care
 - Presenter Marc
   - Different from industry, but have hired many students
   - Industry is looking for experience, but won’t hire inexperienced people
@@ -21,7 +21,7 @@
       - Work through the plan and adjust accordingly
       - Document your setbacks, and how you overcame them
     - Iterate
-## How to set up a Profile/Portfolio
+## 3. How to set up a Profile/Portfolio
 - Important sections
   - Pin Popular repos
   - Available for hire
@@ -44,4 +44,4 @@
 - Keep non-professional information minimal
   - Keep professional tools professional
   - Minimize the influence of unconscious bias of readers
-## Time to work with it and ask questions
+## 4. Time to work with it and ask questions
