@@ -1,4 +1,5 @@
 # GitHub Presentation Planning
+<!-- https://github.community/t/optimizing-your-github-profile/10211 -->
 
 ## 1. Intro & What is GitHub ()
 - Git
