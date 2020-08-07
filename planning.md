@@ -1,11 +1,13 @@
 # GitHub Presentation Planning
 
-## 1. What is GitHub
+## 1. Intro & What is GitHub ()
 - Git
   - Code repository/Version control
   - A useful development tool
 - Hub
+  - "GitHub is to a local Git server what Facebook is to a high school yearbook."
   - Showcase of skills and capabilities
+    - Prove everything you've said about yourself
   - History of activity
   - Social networking aspect of actually collaborating
 ## 2. Why should you care
@@ -41,6 +43,7 @@
       - List of Technology tools
       - What are you working on now, why (clickbait)?
   - Importance of Contribution history
+    - Some things to work on can be found in open-source projects
 - Keep non-professional information minimal
   - Keep professional tools professional
   - Minimize the influence of unconscious bias of readers
