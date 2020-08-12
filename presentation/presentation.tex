@@ -1,5 +1,7 @@
 \documentclass{beamer}
 \usetheme{PaloAlto}
+\usepackage{graphicx}
+\graphicspath{ {./images/} }
 
 \title[]{Using GitHub Professionally}
 
@@ -10,7 +12,7 @@
 BSc. Electrical Engineering, BSc. Mathematics
 \and
 \inst{2}%
-Technical Manager at the Schulich School of Engineering % TODO: actual thing here?
+Technical Manager
 }
 
 \setbeamercovered{transparent}
@@ -55,6 +57,20 @@ Technical Manager at the Schulich School of Engineering % TODO: actual thing her
 \end{frame}
 
 \section{How do I use GitHub?} % GitHub Desktop
+
+\begin{frame}
+	\frametitle{How do I use GitHub?}
+	\framesubtitle{Setting Expectations}
+	\begin{figure}
+		\label{https://xkcd.com/1597/}
+		\centering
+		\includegraphics[height=0.8\textheight]{xkcd-git}
+	\end{figure}
+\begin{flushright}
+	\footnotesize{https://xkcd.com/1597}
+\end{flushright}
+\end{frame}
+
 \begin{frame}
   \frametitle{How do I use GitHub?}
   \framesubtitle{The Basics}
@@ -100,7 +116,7 @@ Technical Manager at the Schulich School of Engineering % TODO: actual thing her
     \item Work
     \item Pull request
   \end{enumerate}\pause
-  Pull requests are just asking the developer to merge your changes
+  Pull requests are just you asking the developer to merge your changes
 \end{frame}
 
 \section{How do I make a good profile?}
@@ -108,7 +124,7 @@ Technical Manager at the Schulich School of Engineering % TODO: actual thing her
   \frametitle{How do I make a good profile?}
   \framesubtitle{Contribution History}
   Your GitHub account tracks your contribution history\\\pause\vspace{0.25em}
-  Having a long and consistent contribution history is extremely valuable\\\pause\vspace{0.25em}
+  Having a long and consistent contribution history is valuable\\\pause\vspace{0.25em}
   One very good thing you can do for your profile is to consistently work on things!
 \end{frame}
 
@@ -132,7 +148,7 @@ Technical Manager at the Schulich School of Engineering % TODO: actual thing her
   \frametitle{How do I make a good profile?}
   \framesubtitle{Repositories}
   Your repositories all should have a README.md\\\vspace{0.25em}
-  Having nice READMEs indicates that you can keep good documentation.\\\pause\vspace{0.25em}
+  Having nice READMEs demonstrates that you can keep good documentation.\\\pause\vspace{0.25em}
   You can have up to 6 of your public repositories pinned on your profile.\pause\\
   \textbf{What should you pin?}
   \begin{itemize}[<+->]
@@ -156,7 +172,8 @@ Technical Manager at the Schulich School of Engineering % TODO: actual thing her
 \begin{frame}
   \frametitle{How do I make a good profile?}
   \framesubtitle{README.md}
-  GitHub has a secret feature giving you some more flexibility\\\vspace{0.25em}
+  GitHub has a secret feature on a repo with your username\\\vspace{0.25em}
+  The README will be on your profile, giving you some more flexibility\\\vspace{0.25em}
   Uses Markdown, the same as any other repository\\\pause\vspace{0.25em}
   To use this, create a repo with the same name as your username, and set README.md there
   % TODO: reduce wordiness
@@ -165,6 +182,6 @@ Technical Manager at the Schulich School of Engineering % TODO: actual thing her
 \section{Work with it!} % TODO: rename
 \begin{frame}
   \frametitle{Questions?}
-  Thanks for your attention, and good luck!
+  Thanks for your attention!
 \end{frame}
 \end{document}
